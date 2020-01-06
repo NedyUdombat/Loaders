@@ -1,6 +1,8 @@
 # Loaders
 
-This repo was inspired by [Florin Pop's](https://twitter.com/florinpop1705) youtube tutorial. Check it out here on youtube
+This repo was inspired by [Florin Pop's](https://twitter.com/florinpop1705) youtube tutorial. Most of the starter code here belong to Florin not me, I just made simple tweaks to give off different variartions.
+
+Check it out here on youtube.
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/NpPrEWdnofU/0.jpg)](https://www.youtube.com/watch?v=NpPrEWdnofU)
 
